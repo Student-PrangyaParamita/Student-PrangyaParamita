@@ -5,7 +5,8 @@
 - 📫 How to reach me - Email - pppriyadarshinee.2003@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-  
+
+- 🎉Holopin Badges:
 - <a href="https://holopin.io/@studentprangyaparamita">
       <img src="https://holopin.me/studentprangyaparamita" alt="@studentprangyaparamita's Holopin badges" />
   </a>
