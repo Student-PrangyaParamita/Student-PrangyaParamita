@@ -9,21 +9,10 @@
       <img src="https://holopin.me/studentprangyaparamita" alt="@studentprangyaparamita's Holopin badges" />
   </a>
 
-  <strong></h2>Language and Tools</h2></strong>
-  <a href="https://code.visualstudio.com/">
-      <img src="https://code.visualstudio.com/assets/images/code-stable.png">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://emaillistvalidation.com/blog/content/images/2023/09/HTML5_logo_and_wordmark.svg.png">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="![image](https://github.com/user-attachments/assets/7bd5c59a-63c3-4877-8545-43828cbd73e7)
-">
-  </a>
-  <a href="https://www.java.com/en/download/">
-      <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png">
-  </a>
-
+<h3 align="left" class="heading-element" dir="auto">Languages and Tools:</h3>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
+</a>
 <!---
 Student-PrangyaParamita/Student-PrangyaParamita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
